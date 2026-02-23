@@ -21,7 +21,7 @@ def get_drive_service():
 
 service = get_drive_service()
 
-# 🔴 改成你最上層（例如 2025）資料夾 ID
+# 🔴 改成最上層資料夾 ID
 ROOT_FOLDER_ID = '1PvbSMe3CdD_O0pPj1dRFiSvlvD4mrk5R'
 
 results_rows = []
